@@ -12,7 +12,7 @@ An interactive Streamlit dashboard for analyzing customer churn behavior in a te
 
 ##  Live Demo
 
- [Streamlit App](https://your-deployed-streamlit-link-here) *(Replace this link after deployment)*
+ [Streamlit App](https://telecom-customer-churn-analysis-ixqnny5ubzhc7wslpkcbqp.streamlit.app/)
 
 ---
 
