@@ -96,10 +96,10 @@ seaborn
 ---
 
 ## Author
-Maurya Ghogare
-GitHub: @MauryaGhogare
-Email: mauryaghogare10@gmail.com
-LinkedIn: www.linkedin.com/in/mauryaghogare
+**Maurya Ghogare**  
+Email: [mauryaghogare10@gmail.com](mailto:mauryaghogare10@gmail.com)  
+GitHub: [@MauryaGhogare](https://github.com/MauryaGhogare)  
+LinkedIn: [mauryaghogare](https://www.linkedin.com/in/mauryaghogare)
 
 ---
 
