@@ -13,6 +13,7 @@ An interactive Streamlit dashboard for analyzing customer churn behavior in a te
 ##  Live Demo
 
  [Streamlit App](https://telecom-customer-churn-analysis-ixqnny5ubzhc7wslpkcbqp.streamlit.app/)
+ Note: If the app shows “Not connected to a server”, simply refresh the page once. This is a common temporary issue with hosted Streamlit apps.
 
 ---
 
